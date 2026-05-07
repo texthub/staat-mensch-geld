@@ -1,7 +1,7 @@
 ---
 layout: default
 menu_title: "Menschenbild im Wandel"
-title: "Menschenbild im Wandel: Vom Souverän zur Ressource"
+title: "Menschenbild im Wandel - Vom Souverän zur Ressource"
 nav_order: 11
 date: 2026-05-07
 ---
