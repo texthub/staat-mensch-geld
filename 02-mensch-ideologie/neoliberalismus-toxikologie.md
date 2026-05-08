@@ -45,6 +45,6 @@ Die neoliberale Sichtweise ist eine Form der kollektiven Autoimmunerkrankung: Si
 
 **Querverweise:**
 
-* [Menschenbild im Wandel](../01_staat_gesellschaft/menschenbild_im_wandel.html) – Die Umsetzung dieser Ideologie im staatlichen Handeln.
-* [Wesen des Geldes](../03_geld_wirtschaft/wesen_des_geldes.html) – Wie das wertlose Geld als Ersatz für sozialen Zusammenhalt dient.
+* [Menschenbild im Wandel](../01-staat-gesellschaft/menschenbild-im-wandel.html) – Die Umsetzung dieser Ideologie im staatlichen Handeln.
+* [Wesen des Geldes](../03-geld-wirtschaft/wesen-des-geldes.html) – Wie das wertlose Geld als Ersatz für sozialen Zusammenhalt dient.
 
