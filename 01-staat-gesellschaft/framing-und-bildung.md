@@ -42,5 +42,5 @@ Bildung ist kein Anhäufen von Fakten, sondern der Prozess der Selbstermächtigu
 ---
 **Querverweise:**
 
-* [01-staat-gesellschaft/politische-kultur] – Die Folgen der verlorenen Debattenfähigkeit.
-* [02-mensch-ideologie/neoliberalismus-toxikologie] – Marktlogik als dominanter Deutungsrahmen.
+* [Politische Kultur](/01-staat-gesellschaft/politische-kultur) – Die Folgen der verlorenen Debattenfähigkeit.
+* [Neoliberalismus Toxikologie](/02-mensch-ideologie/neoliberalismus-toxikologie) – Marktlogik als dominanter Deutungsrahmen.
