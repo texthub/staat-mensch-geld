@@ -31,6 +31,6 @@ Geld ist wertlos, solange es nicht in Bewegung ist. Es ist ein Steuerungsinstrum
 ---
 **Querverweise:**
 
-* [Schuld und Vermögen](/03-geld-wirtschaft/schuld-und-vermoegen) – Die mathematische Kehrseite des Geldbesitzes.
+* [Schuld und Vermögen](/03-geld-wirtschaft/schuld-und-vermoegen.html) – Die mathematische Kehrseite des Geldbesitzes.
 
 
