@@ -39,5 +39,5 @@ Die Meritokratie ist das Schmiermittel des Neoliberalismus. Sie hält den "Unter
 
 ---
 **Querverweise:**
-* [02 Neoliberalismus Toxikologie](/02-mensch-ideologie/neoliberalismus-toxikologie) – Die ideologische Basis des Wettbewerbsdenkens.
-* [04 Prekarisierung die Verwaltung des Mangels](/04-akkumulation-asymmetrie/prekarisierung-die-verwaltung-des-mangels) – Die Realität am unteren Ende der Legende.
+* [02 Neoliberalismus Toxikologie](/02-mensch-ideologie/neoliberalismus-toxikologie.html) – Die ideologische Basis des Wettbewerbsdenkens.
+* [04 Prekarisierung die Verwaltung des Mangels](/04-akkumulation-asymmetrie/prekarisierung-die-verwaltung-des-mangels.html) – Die Realität am unteren Ende der Legende.
