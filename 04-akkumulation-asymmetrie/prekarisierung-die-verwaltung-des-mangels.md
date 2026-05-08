@@ -37,6 +37,7 @@ Prekarisierung ist die materielle Umsetzung des Neoliberalismus. Sie macht aus d
 
 ---
 **Querverweise:**
-* [Menschenbild im Wandel](/01-staat-gesellschaft/menschenbild-im-wandel) – Wie das Humankapital zur Kostenstelle wird.
-* [Neoliberalismus: Toxisch](/02-mensch-ideologie/neoliberalismus-toxikologie) – Die ideologischen Wurzeln der Ausbeutung.
-* [Schuld und Vermögen](/03-geld-wirtschaft/schuld-und-vermoegen) – Warum die Verschuldung der einen den Reichtum der anderen bedingt.
+* [Menschenbild im Wandel](/01-staat-gesellschaft/menschenbild-im-wandel.html) – Wie das Humankapital zur Kostenstelle wird.
+* [Neoliberalismus: Toxisch](/02-mensch-ideologie/neoliberalismus-toxikologie.html) – Die ideologischen Wurzeln der Ausbeutung.
+* [Schuld und Vermögen](/03-geld-wirtschaft/schuld-und-vermoegen.html) – Warum die Verschuldung der einen den Reichtum der anderen bedingt.
+
