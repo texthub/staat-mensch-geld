@@ -41,6 +41,6 @@ Die Zerstörung der politischen Kultur ist kein Zufall, sondern das Ergebnis ein
 ---
 **Querverweise:**
 
-* [Neoliberalismus Toxikologie](../02_mensch_ideologie/neoliberalismus_toxikologie.html)– Warum Wettbewerb den Dialog ersetzt hat.
-* [Macht und Framing](../01_staat_gesellschaft/macht_und_framing.html) – Die Werkzeuge der sprachlichen Steuerung.
+* [Neoliberalismus Toxikologie](../02_mensch-deologie/neoliberalismus-toxikologie.html)– Warum Wettbewerb den Dialog ersetzt hat.
+* [Macht und Framing](../01-staat-gesellschaft/macht-und-framing.html) – Die Werkzeuge der sprachlichen Steuerung.
 
