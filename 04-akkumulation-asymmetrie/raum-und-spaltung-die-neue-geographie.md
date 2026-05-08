@@ -37,6 +37,6 @@ Die neue Geographie der Spaltung zementiert die Ungleichheit im Beton. Wenn der 
 
 ---
 **Querverweise:**
-* [Politische Kultur im Wandel](/01-staat-gesellschaft/politische-kultur)
-* [Schuld und Vermögen](/03-geld-wirtschaft/schuld-und-vermoegen)
-* [Prekarisierung: Die Verwaltung des Mangels](/04-akkumulation-asymmetrie/prekarisierung-die-verwaltung-des-mangels)
+* [Politische Kultur im Wandel](/01-staat-gesellschaft/politische-kultur.html)
+* [Schuld und Vermögen](/03-geld-wirtschaft/schuld-und-vermoegen.html)
+* [Prekarisierung: Die Verwaltung des Mangels](/04-akkumulation-asymmetrie/prekarisierung-die-verwaltung-des-mangels.html)
