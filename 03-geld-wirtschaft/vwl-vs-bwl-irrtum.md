@@ -32,4 +32,5 @@ Wer den Staat wie eine Firma führt, hat das Wesen der Volkswirtschaft nicht ver
 ---
 **Querverweise:**
 
-* [[01-staat-gesellschaft/politische-kultur.md]] – Wie das Spar-Narrativ die Debatte lähmt.
+* [Politische Kultur](/01-staat-gesellschaft/politische-kultur) – Wie das Spar-Narrativ die Debatte lähmt.
+
