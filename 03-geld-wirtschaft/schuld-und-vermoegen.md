@@ -37,7 +37,7 @@ Freiheit ist in einem System, das auf der Identität von Schuld und Vermögen ba
 ---
 **Querverweise:**
 
-* [Neoliberalismus Toxikologie](/02-mensch-ideologie/neoliberalismus-toxikologie) – Warum Wettbewerb um Vermögen die Gesellschaft spaltet.
-* [Wesen des Geldes](/03-geld-wirtschaft/wesen-des-geldes) – Die Entstehung der Schuld aus dem Nichts.
+* [Neoliberalismus Toxikologie](/02-mensch-ideologie/neoliberalismus-toxikologie.html) – Warum Wettbewerb um Vermögen die Gesellschaft spaltet.
+* [Wesen des Geldes](/03-geld-wirtschaft/wesen-des-geldes.html) – Die Entstehung der Schuld aus dem Nichts.
 
 
