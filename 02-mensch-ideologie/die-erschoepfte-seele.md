@@ -37,7 +37,7 @@ Die erschöpfte Seele ist das mahnende Denkmal einer Gesellschaft, die den Wert 
 
 ---
 **Querverweise:**
-* [Menschenbild im Wandel](/01-staat-gesellschaft/menschenbild-im-wandel.html) – Die staatliche Sicht auf die Ressource Mensch.
-* [Neoliberalismus: Toxisch](/02-mensch-ideologie/neoliberalismus-toxikologie.html) – Die Wurzeln des Wettbewerbsdenkens.
-* [Prekarisierung: Die Verwaltung des Mangels](/04-akkumulation-asymmetrie/prekarisierung-die-verwaltung-des-mangels.html) – Der materielle Druck hinter der psychischen Erschöpfung.
+* [Menschenbild im Wandel](../01-staat-gesellschaft/menschenbild-im-wandel.html) – Die staatliche Sicht auf die Ressource Mensch.
+* [Neoliberalismus: Toxisch](../02-mensch-ideologie/neoliberalismus-toxikologie.html) – Die Wurzeln des Wettbewerbsdenkens.
+* [Prekarisierung: Die Verwaltung des Mangels](../04-akkumulation-asymmetrie/prekarisierung-die-verwaltung-des-mangels.html) – Der materielle Druck hinter der psychischen Erschöpfung.
 
