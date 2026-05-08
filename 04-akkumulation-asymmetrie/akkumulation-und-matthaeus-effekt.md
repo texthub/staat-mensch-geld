@@ -38,5 +38,5 @@ Der Matthäus-Effekt ist kein Zufallsprodukt, sondern das Ergebnis eines Geldsys
 ---
 **Querverweise:**
 
-* [03 Schuld und Vermögen](/03-geld-wirtschaft/schuld-und-vermoegen) – Die mathematische Kehrseite der Medaille.
-* [Meritokratie die Legende vom Aufstieg](/04-akkumulation-asymmetrie/meritokratie-die-legende-vom-aufstieg) – Warum uns erzählt wird, dass wir es trotzdem schaffen könnten.
+* [03 Schuld und Vermögen](/03-geld-wirtschaft/schuld-und-vermoegen.html) – Die mathematische Kehrseite der Medaille.
+* [Meritokratie die Legende vom Aufstieg](/04-akkumulation-asymmetrie/meritokratie-die-legende-vom-aufstieg.html) – Warum uns erzählt wird, dass wir es trotzdem schaffen könnten.
