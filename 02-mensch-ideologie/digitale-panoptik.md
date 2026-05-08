@@ -37,6 +37,6 @@ Die digitale Panoptik macht aus dem Bürger einen Untertanen, der seine Freiheit
 
 ---
 **Querverweise:**
-* [Identität und Steuerung](/02-mensch-ideologie/identitaet-und-steuerung) – Die Mechanik hinter dem Nudging.
-* [Politische Kultur im Wandel](/01-staat-gesellschaft/politische-kultur) – Wie die Schere im Kopf den Diskurs erstickt.
-* [Die erschöpfte Seele](/02-mensch-ideologie/die-erschoepfte-seele) – Der psychische Preis der permanenten Selbst-Präsentation.
+* [Identität und Steuerung](/02-mensch-ideologie/identitaet-und-steuerung.html) – Die Mechanik hinter dem Nudging.
+* [Politische Kultur im Wandel](/01-staat-gesellschaft/politische-kultur.html) – Wie die Schere im Kopf den Diskurs erstickt.
+* [Die erschöpfte Seele](/02-mensch-ideologie/die-erschoepfte-seele.html) – Der psychische Preis der permanenten Selbst-Präsentation.
