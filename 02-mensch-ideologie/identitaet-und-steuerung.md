@@ -43,5 +43,5 @@ Die gefährlichste Form der Unfreiheit ist die, die sich wie Freiheit anfühlt. 
 ---
 **Querverweise:**
 
-* [06 Framing Bildung](/01-staat-gesellschaft/06-framing-bildung) – Wie Sprache den Rahmen der Steuerung setzt.
-* [02 Neoliberalismus Toxikologie](/02-mensch-ideologie/neoliberalismus-toxikologie) – Die ökonomische Rechtfertigung der Fremdsteuerung.
+* [06 Framing Bildung](/01-staat-gesellschaft/06-framing-bildung.html) – Wie Sprache den Rahmen der Steuerung setzt.
+* [02 Neoliberalismus Toxikologie](/02-mensch-ideologie/neoliberalismus-toxikologie.html) – Die ökonomische Rechtfertigung der Fremdsteuerung.
