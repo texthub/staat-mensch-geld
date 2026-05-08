@@ -37,6 +37,6 @@ Einsamkeit ist nicht bloß ein individuelles Schicksal oder ein psychologisches 
 
 ---
 **Querverweise:**
-* [Neoliberalismus: Toxisch](/02-mensch-ideologie/neoliberalismus-toxikologie) – Wie Wettbewerb das soziale Band zerschneidet.
-* [Identität und Steuerung](/02-mensch-ideologie/identitaet-und-steuerung) – Warum isolierte Menschen leichter zu lenken sind.
-* [Raum und Spaltung](/04-akkumulation-asymmetrie/raum-und-spaltung-die-neue-geographie) – Die physische Trennung als Beschleuniger der Einsamkeit.
+* [Neoliberalismus: Toxisch](/02-mensch-ideologie/neoliberalismus-toxikologie.html) – Wie Wettbewerb das soziale Band zerschneidet.
+* [Identität und Steuerung](/02-mensch-ideologie/identitaet-und-steuerung.html) – Warum isolierte Menschen leichter zu lenken sind.
+* [Raum und Spaltung](/04-akkumulation-asymmetrie/raum-und-spaltung-die-neue-geographie.html) – Die physische Trennung als Beschleuniger der Einsamkeit.
